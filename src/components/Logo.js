@@ -9,7 +9,7 @@ const styles = {
 
 class Logo extends Component {
   render() {
-    return <div style={styles.logo}>Shop</div>;
+    return <div style={styles.logo}>Carrito de comprar basico</div>;
   }
 }
 
